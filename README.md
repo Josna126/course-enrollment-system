@@ -5,7 +5,7 @@ A comprehensive web-based course enrollment system built with Java, demonstratin
 [![Java](https://img.shields.io/badge/Java-11+-orange.svg)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-## 📋 Table of Contents
+## � Table of Contentst
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -513,7 +513,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email josna.fernandes@example.com or open an issue in the repository.
+For support, email fernandesjosna126@gmail.com or open an issue in the repository.
 
 ## 🔮 Future Enhancements
 
@@ -533,3 +533,21 @@ For support, email josna.fernandes@example.com or open an issue in the repositor
 **⭐ If you find this project helpful, please give it a star!**
 
 **📚 For detailed technical documentation, see [details.md](details.md)**
+
+---
+
+## 🎓 Project Ownership & Academic Information
+
+**This project has been created as a Course Assignment Work.**
+
+| | |
+|---|---|
+| **Course** | Advanced Java (BCS613D) |
+| **Created By** | **Josna Fernandes** |
+| **Department** | Computer Science and Engineering |
+| **Institution** | **Alva's Institute of Engineering and Technology** |
+
+---
+
+© 2024 Josna Fernandes - Course Assignment for Advanced Java (BCS613D)  
+Alva's Institute of Engineering and Technology, Computer Science and Engineering Department
